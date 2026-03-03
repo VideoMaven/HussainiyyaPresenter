@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "exportedAt": "2026-03-03T11:17:06.144Z",
+  "theme": {
+    "id": "theme-1772508194719",
+    "name": "tmne 1",
+    "category": "Custom",
+    "slideDesigns": {
+      "title": {
+        "layers": [
+          {
+            "id": "l1_1772506383087_opwg",
+            "type": "text-arabic",
+            "label": "Primary Text",
+            "x": 96,
+            "y": 324,
+            "w": 1728,
+            "h": 432,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Noto Naskh Arabic",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l1772508140219",
+            "type": "color-block",
+            "label": "Color Block",
+            "x": 192,
+            "y": 108,
+            "w": 1536,
+            "h": 216,
+            "fontSize": 60,
+            "color": "#258712",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          }
+        ],
+        "background": "#000000"
+      },
+      "fullscreen": {
+        "layers": [
+          {
+            "id": "l1772508154452",
+            "type": "color-block",
+            "label": "Color Block",
+            "x": 203.5068493150685,
+            "y": 362.79452054794524,
+            "w": 1536,
+            "h": 216,
+            "fontSize": 60,
+            "color": "#3c9a6a",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l1_1772506383087_a85d",
+            "type": "text-arabic",
+            "label": "Primary Text",
+            "x": 82.84931506849315,
+            "y": 0,
+            "w": 1276,
+            "h": 444,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Noto Naskh Arabic",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l2_1772506383087_ya80",
+            "type": "text-translation",
+            "label": "Translation",
+            "x": 96,
+            "y": 670,
+            "w": 1728,
+            "h": 216,
+            "color": "rgba(255,255,255,0.75)",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          }
+        ],
+        "background": "#000000"
+      },
+      "cutout": {
+        "layers": [
+          {
+            "id": "l1_1772506383087_69vw",
+            "type": "color-block",
+            "label": "Background",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "color": "#8b5a3c",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l2_1772506383087_dfnu",
+            "type": "image-png",
+            "label": "PNG Overlay",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "src": null,
+            "lockAspect": false,
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l3_1772506383087_ft2l",
+            "type": "text-arabic",
+            "label": "Primary Text",
+            "x": 96,
+            "y": 86,
+            "w": 1728,
+            "h": 270,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Noto Naskh Arabic",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l4_1772506383087_wrsk",
+            "type": "text-translation",
+            "label": "Secondary Text",
+            "x": 96,
+            "y": 378,
+            "w": 1728,
+            "h": 162,
+            "color": "rgba(255,255,255,0.75)",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          }
+        ],
+        "background": "#1a0a00"
+      },
+      "lowerThird": {
+        "layers": [
+          {
+            "id": "l2_1772506383087_p6jd",
+            "type": "color-block",
+            "label": "Lower Bar",
+            "x": 0,
+            "y": 734,
+            "w": 1920,
+            "h": 346,
+            "color": "#4d8f69",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l3_1772506383087_vtw1",
+            "type": "text-arabic",
+            "label": "Primary Text",
+            "x": 96,
+            "y": 756,
+            "w": 1728,
+            "h": 173,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Noto Naskh Arabic",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l4_1772506383087_4v7f",
+            "type": "text-translation",
+            "label": "Secondary Text",
+            "x": 96,
+            "y": 929,
+            "w": 1728,
+            "h": 108,
+            "color": "rgba(255,255,255,0.75)",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l1772536599826",
+            "type": "image-bg",
+            "label": "Image (JPEG / no alpha)",
+            "x": 192,
+            "y": 108,
+            "w": 1536,
+            "h": 505,
+            "fontSize": 60,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "lockAspect": false,
+            "naturalW": 1970,
+            "naturalH": 540,
+            "src": "blob:http://localhost:3000/7a6dbe42-8bb6-4c67-b154-66834aa53f89"
+          }
+        ],
+        "background": "#000000"
+      },
+      "holding": {
+        "layers": [
+          {
+            "id": "l1_1772506383087_7g84",
+            "type": "color-block",
+            "label": "Background Color",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "color": "#001404",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l2_1772506383087_slin",
+            "type": "image-png",
+            "label": "PNG Layer 1",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "src": null,
+            "lockAspect": false,
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l3_1772506383087_r1ux",
+            "type": "image-png",
+            "label": "PNG Layer 2",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "src": null,
+            "lockAspect": false,
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l4_1772506383087_237p",
+            "type": "image-png",
+            "label": "PNG Layer 3",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "src": null,
+            "lockAspect": false,
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l5_1772506383087_w0rd",
+            "type": "text-arabic",
+            "label": "Text 1",
+            "x": 96,
+            "y": 216,
+            "w": 1728,
+            "h": 216,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Noto Naskh Arabic",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l6_1772506383087_g7fz",
+            "type": "text-translation",
+            "label": "Text 2",
+            "x": 96,
+            "y": 475,
+            "w": 1728,
+            "h": 130,
+            "color": "rgba(255,255,255,0.8)",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l7_1772506383087_1v1e",
+            "type": "text-tag",
+            "label": "Text 3",
+            "x": 96,
+            "y": 626,
+            "w": 1728,
+            "h": 108,
+            "color": "rgba(255,255,255,0.5)",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          },
+          {
+            "id": "l8_1772506383087_caiy",
+            "type": "datetime",
+            "label": "Date/Time",
+            "x": 96,
+            "y": 864,
+            "w": 1728,
+            "h": 130,
+            "color": "rgba(255,255,255,0.6)",
+            "align": "center",
+            "format": "dddd D MMMM YYYY · HH:mm",
+            "naturalW": null,
+            "naturalH": null
+          }
+        ],
+        "background": "#0a0014"
+      }
+    }
+  }
+}
