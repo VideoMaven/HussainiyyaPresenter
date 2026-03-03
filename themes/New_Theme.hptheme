@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-03-03T13:18:44.299Z",
+  "exportedAt": "2026-03-03T13:19:29.372Z",
   "theme": {
     "id": "theme-1772539175251",
     "name": "New Theme",
@@ -310,99 +310,6 @@
       "holding": {
         "layers": [
           {
-            "id": "l1_1772539175251_xlyc",
-            "type": "color-block",
-            "label": "Background Color",
-            "x": 0,
-            "y": 0,
-            "w": 1920,
-            "h": 1080,
-            "color": "#0a0014",
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
-            "id": "l2_1772539175251_70sq",
-            "type": "image-png",
-            "label": "PNG Layer 1",
-            "x": 0,
-            "y": 0,
-            "w": 1920,
-            "h": 1080,
-            "src": null,
-            "lockAspect": false,
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
-            "id": "l3_1772539175251_lspf",
-            "type": "image-png",
-            "label": "PNG Layer 2",
-            "x": 0,
-            "y": 0,
-            "w": 1920,
-            "h": 1080,
-            "src": null,
-            "lockAspect": false,
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
-            "id": "l4_1772539175251_318l",
-            "type": "image-png",
-            "label": "PNG Layer 3",
-            "x": 0,
-            "y": 0,
-            "w": 1920,
-            "h": 1080,
-            "src": null,
-            "lockAspect": false,
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
-            "id": "l5_1772539175251_qk8s",
-            "type": "text-arabic",
-            "label": "Text 1",
-            "x": 96,
-            "y": 216,
-            "w": 1728,
-            "h": 216,
-            "color": "#ffffff",
-            "align": "center",
-            "fontFamily": "Noto Naskh Arabic",
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
-            "id": "l6_1772539175251_7sul",
-            "type": "text-translation",
-            "label": "Text 2",
-            "x": 96,
-            "y": 475,
-            "w": 1728,
-            "h": 130,
-            "color": "rgba(255,255,255,0.8)",
-            "align": "center",
-            "fontFamily": "Outfit",
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
-            "id": "l7_1772539175251_ud5r",
-            "type": "text-tag",
-            "label": "Text 3",
-            "x": 96,
-            "y": 626,
-            "w": 1728,
-            "h": 108,
-            "color": "rgba(255,255,255,0.5)",
-            "align": "center",
-            "fontFamily": "Outfit",
-            "naturalW": null,
-            "naturalH": null
-          },
-          {
             "id": "l8_1772539175251_u0og",
             "type": "datetime",
             "label": "Date/Time",
@@ -415,6 +322,23 @@
             "format": "dddd D MMMM YYYY · HH:mm",
             "naturalW": null,
             "naturalH": null
+          },
+          {
+            "id": "l1772543942745",
+            "type": "video-bg",
+            "label": "Video MP4",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "fontSize": 60,
+            "color": "#ffffff",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "lockAspect": false,
+            "naturalW": 1920,
+            "naturalH": 1080,
+            "src": "__release__/https://github.com/VideoMaven/HussainiyyaPresenter/releases/download/theme-media/New_Theme_holding_l1772543942745.webm"
           }
         ],
         "background": "#0a0014"
