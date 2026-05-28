@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-28T16:33:12.435Z",
+  "theme": {
+    "id": "theme-1779892466185",
+    "name": "New Theme",
+    "category": "Custom",
+    "slideDesigns": {
+      "title": {
+        "background": "#000000",
+        "layers": []
+      },
+      "fullscreen": {
+        "background": "#000000",
+        "layers": []
+      },
+      "cutout": {
+        "background": "#000000",
+        "layers": []
+      },
+      "lowerThird": {
+        "background": "#000000",
+        "layers": []
+      },
+      "video": {
+        "background": "#000000",
+        "layers": []
+      },
+      "image": {
+        "background": "#000000",
+        "layers": []
+      },
+      "holding": {
+        "background": "#000000",
+        "layers": []
+      }
+    }
+  }
+}
