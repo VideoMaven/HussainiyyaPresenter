@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "exportedAt": "2026-03-03T13:00:34.878Z",
+  "exportedAt": "2026-05-28T16:33:43.004Z",
   "theme": {
-    "id": "gh-1772539257039-98xx",
+    "id": "gh-1779893723424-hk11",
     "name": "ramadhan",
     "category": "GitHub",
     "slideDesigns": {
@@ -26,16 +26,17 @@
             "src": null
           },
           {
-            "id": "l1_1772506383087_opwg",
-            "type": "text-arabic",
-            "label": "Primary Text",
-            "x": 96,
-            "y": 324,
-            "w": 1728,
-            "h": 432,
+            "id": "l1779985324606",
+            "type": "text-translation",
+            "label": "Translation",
+            "x": 205.4265734265734,
+            "y": 128.13986013986016,
+            "w": 1534,
+            "h": 775,
+            "fontSize": 60,
             "color": "#ffffff",
             "align": "center",
-            "fontFamily": "Noto Naskh Arabic",
+            "fontFamily": "Outfit",
             "naturalW": null,
             "naturalH": null
           }
@@ -111,8 +112,8 @@
             "id": "l3_1772506383087_ft2l",
             "type": "text-arabic",
             "label": "Primary Text",
-            "x": 639.7762237762238,
-            "y": 14.3916083916084,
+            "x": 639.048951048951,
+            "y": 20.13986013986014,
             "w": 1233,
             "h": 482,
             "color": "#ffffff",
