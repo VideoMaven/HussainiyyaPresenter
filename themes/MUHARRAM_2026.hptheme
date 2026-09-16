@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-16T18:19:54.976Z",
+  "exportedAt": "2026-09-16T11:53:31.597Z",
   "theme": {
-    "id": "theme-1781633794030",
+    "id": "gh-1789559546901-bjan",
     "name": "MUHARRAM 2026",
-    "category": "Custom",
+    "category": "GitHub",
     "slideDesigns": {
       "title": {
         "layers": [
@@ -271,6 +271,7 @@
         ],
         "background": "#0a0014"
       }
-    }
+    },
+    "source": "github"
   }
 }
