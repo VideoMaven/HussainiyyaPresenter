@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "exportedAt": "2026-09-16T11:53:29.085Z",
+  "exportedAt": "2026-09-16T12:47:01.610Z",
   "theme": {
-    "id": "theme-1789558574425",
+    "id": "gh-1789562442305-1j55",
     "name": "WEDDINGS",
-    "category": "Custom",
+    "category": "GitHub",
     "slideDesigns": {
       "title": {
         "layers": [
@@ -110,6 +110,21 @@
       },
       "cutout": {
         "layers": [
+          {
+            "id": "l1789562687408",
+            "type": "color-block",
+            "label": "Color Block",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1080,
+            "fontSize": 60,
+            "color": "rgba(5,255,55,1.00)",
+            "align": "center",
+            "fontFamily": "Outfit",
+            "naturalW": null,
+            "naturalH": null
+          },
           {
             "id": "l2_1779985374740_m4bf",
             "type": "image-png",
@@ -254,6 +269,7 @@
         "layers": [],
         "background": "#0a0014"
       }
-    }
+    },
+    "source": "github"
   }
 }
