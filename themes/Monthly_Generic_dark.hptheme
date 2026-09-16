@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-16T18:19:52.602Z",
+  "exportedAt": "2026-09-16T11:53:26.018Z",
   "theme": {
     "id": "theme-1779985758963",
     "name": "Monthly Generic dark",
@@ -236,24 +236,7 @@
         "background": "#000000"
       },
       "holding": {
-        "layers": [
-          {
-            "id": "l1779985912870",
-            "type": "url-source",
-            "label": "Web URL / Singular",
-            "x": 0,
-            "y": 0,
-            "w": 1920,
-            "h": 1080,
-            "fontSize": 60,
-            "color": "#ffffff",
-            "align": "center",
-            "fontFamily": "Outfit",
-            "naturalW": null,
-            "naturalH": null,
-            "url": "https://app.singular.live/output/6xERZSG8FZuS4NTX5hDgAa/Output?aspect=16:9"
-          }
-        ],
+        "layers": [],
         "background": "#0a0014"
       }
     }
